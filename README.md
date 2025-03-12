@@ -33,12 +33,16 @@ Após adicionar ao menos um amigo, clique em **"Sortear um amigo"**. O nome de u
 
 ## Exemplo de uso
 
+### Interface Inicial:
+
+![Amigo Secreto - Google Chrome 12_03_2025 07_23_38](https://github.com/user-attachments/assets/b0bca0a1-e132-434b-9b12-a3a6402273a0)
+
+
+
 Após adicionar alguns amigos e clicar em "Sortear um amigo", a interface mudará para algo assim:
 
-```
-O amigo secreto sorteado é: João
+![Amigo Secreto - Amigo Sorteado](https://github.com/user-attachments/assets/a24365b3-66dd-4c93-84e1-9af5d22c5fcb)
 
-```
 
 ## Contribuições
 
